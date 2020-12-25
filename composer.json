@@ -1,0 +1,17 @@
+{
+    "name": "stratis/stratis-media-thumbnails",
+    "type": "typo3-cms-extension",
+    "description": "Stratis Media Thumbnails",
+    "license": ["GPL-2.0-or-later"],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+      "typo3/cms-core": ">=9.5.0",
+      "php-ffmpeg/php-ffmpeg": "^0.17.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Stratis\\StratisMediaThumbnails\\": "Classes/"
+        }
+    }
+}

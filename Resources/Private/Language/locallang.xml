@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<T3locallang type="array">
+    <data type="array">
+        <languageKey index="default">
+            <label index="extensions">Allowed extensions</label>
+        </languageKey>
+        <languageKey index="fr" type="array">
+            <label index="extensions">Extensions autorisées</label>
+        </languageKey>
+    </data>
+</T3locallang>

@@ -1,0 +1,3 @@
+# cat=backend; type=string; label=LLL:EXT:stratis_media_thumbnails/Resources/Private/Language/locallang.xml:extensions
+extensions = mp4,ogv,mov,wmv,flv,avi,webm,mkv
+
